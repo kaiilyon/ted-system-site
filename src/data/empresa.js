@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Foco no cliente",
+      descricao: "Compromisso em entender as necessidades de cada projeto, entregando soluções intuitivas e de alto impacto que geram valor real."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
-    }
+    },
+    {
+    nome: "Kailany Nascimento",
+      cargo: "Co-fundadora, CEO e Desenvolvedora Front-end",
+      foto: "/images/kailany.jpg.jpeg",
+      alt: "Foto de Kailany Nascimento",
+      descricao: "Co-fundadora da DualCode, responsável pela direção da empresa e pelo desenvolvimento da interface dos sistemas."
+    },
   ]
 };
